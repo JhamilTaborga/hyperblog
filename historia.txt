@@ -6,4 +6,6 @@ Hoy hablaremos de su historia :3.
 
 Main 1
 
+Main 2
+
 Mañana nos enfocaremos en su vida laboral. Cambio realizado con "checkout".
